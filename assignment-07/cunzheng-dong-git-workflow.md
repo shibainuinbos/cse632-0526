@@ -33,7 +33,8 @@ On branch feature/cunzheng-dong-assignment-07
 Changes to be committed:
 new file: assignment-07/cunzheng-dong-git-workflow.md
 ## Pull Request URL 
-Paste your pull request URL here. 
+
+To be updated after PR creation. 
 ## Latest Commit Hash 
 56a55c24e771f1cd73647fed9ceb4bc33bd856f8
 ## Merge Conflict Summary 
